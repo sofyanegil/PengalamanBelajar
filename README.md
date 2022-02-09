@@ -15,3 +15,14 @@ Belajar kelas Belajar Dasar Git dengan Github. (Progres 50%)
 * Belajar Github dengan Studi kasus Pengalaman Belajar.
 
 * Belajar Git Branches.
+
+
+
+**11 Februari 2022** <br>
+Belajar kelas Belajar Dasar Git dengan Github. (Progres 100%)
+
+* Belajar Kolaborasi dengan Tim di Github.
+
+* Belajar Github sebagai portofolio 
+
+* Mengerjakan ujian akhir nuntuk menilai kemampuan diri.
